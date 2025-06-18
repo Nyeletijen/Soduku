@@ -4,9 +4,13 @@
 
 sudoku game created using html/css and javascript
 
-![Start-page](https://user-images.githubusercontent.com/87823341/166922606-ccc5885d-60aa-4980-a98f-86c29de425fd.png)
-![game](https://user-images.githubusercontent.com/87823341/166923243-0bd6004c-071a-4998-be92-d9b6b751510a.png)
+[Start Page]
+![Start page](https://github.com/user-attachments/assets/703555b3-7587-40ab-8698-822660aa7cea)
 
-[Click Here](https://mangosalami.github.io/sudoku-/sudoku/) to play
+[Game]
+![game](https://github.com/user-attachments/assets/79412d6a-b782-42e2-828a-aef0226e4a1a)
+
+
+[Click Here](https://nyeletijen.github.io/Soduku/) to play
 
 *****************************************************
